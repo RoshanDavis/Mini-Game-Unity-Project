@@ -1,2 +1,2 @@
 # Mini-Game
- A mini game made using unity
+ A mini game made using unity.
